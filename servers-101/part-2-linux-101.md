@@ -77,9 +77,10 @@ Note: **Standard streams** -
 + **uname** 
 + **find** 
 + **sed** 
-+ **wget** 
-+ 
-
++ **wget** - http client
++ **curl** - http client
++ **shutdown** - avoid this for servers running on the cloud. Recommecned to do it on the web console of your provider.  
++ **reboot** - avoid this for servers running on the cloud. Recommecned to do it on the web console of your provider.  
 
 ## Part 2.3: Chaining Commads
 
@@ -104,14 +105,6 @@ Read more: https://www.geeksforgeeks.org/chaining-commands-in-linux/
     + **./** command
 + Crontab 
 + AWK Scripting 
-
-
-
-
-
-
-
-
 
 
 ## References 
