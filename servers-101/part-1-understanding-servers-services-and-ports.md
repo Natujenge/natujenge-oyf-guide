@@ -77,7 +77,7 @@
     + A server comes with an IP address and you need user credentials to login; either username & password pair or username & private key pair. 
     + **Login using a Username and Password**
         + *ssh username@ip_address* <-- you will be require to provide a password 
-        *e.g. ssh root@51.15.211.168*
+        *e.g. ssh root@127.0.0.1*
     + **Login using a Username and a Private Key**
         + *ssh -i private_key username@ip_address* <-- you will not be required to enter a password 
-        + *e.g. ssh -i scaleway.pem root@51.15.211.168*
+        + *e.g. ssh -i scaleway.pem root@127.0.0.1*
