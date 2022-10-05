@@ -21,9 +21,9 @@ At the end of this module, you should appreciate the following concepts in datab
 - API request and response bodies.
 - REST APIs
 - SOAP APIs
-- GraphQL APIs: Bonus
+- GraphQL APIs [Bonus]
 - API Clients:
-    - Postman, Curl, wget, telnet ..
+    - Postman, cURL, wget, telnet..
 
 ## BackEnd 
 - Data structures
@@ -54,7 +54,18 @@ At the end of this module, you should appreciate the following concepts in datab
     - Cache
     - Reading logs
 
-
 ## Deliverables
-- Create APIs that interact with the database 
-- Deploy them on VM using docker-compose or on a Kubernetes cluster
+
+In your groups, you are meant to appreciate above concepts and apply them in the below challenge: 
+
+- Create APIs that interact with the database and apply the above concepts they learnt:
+    + Get object or objects
+    + Create object API
+    + Update object API 
+    + Delete object API 
+    + Filter or search [Bonus]
+- Deploy their services on VM using docker-compose or on a Kubernetes cluster:
+    - DB Service 
+    - API Service 
+    - Web App [Bonus]
+        - Add a page on their tax web app to consume the new APIs 
