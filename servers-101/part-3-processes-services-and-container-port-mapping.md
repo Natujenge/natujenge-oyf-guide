@@ -1,5 +1,5 @@
 
-# Recap of Servers 101 Part 1 and 2 
+## Recap of Servers 101 Part 1 and 2 
 
 + Recap of server 1 session:
     + Server is **comprised of hardware resources and has an OS**
@@ -17,9 +17,9 @@
         + **mysql service (mysql)** - exposes port 3306 - NOT a well known port 
         + **your-app** - exposes a port 8080 - NOT a well known port 
 
-# Part 3: Process & Service Management 
+## Part 3: Process & Service Management 
 
-## Service Management 
+### Service Management 
 + We will dive deeper into management of services in CentosOS Stream/RHEL (other Linux distros will use different commands and service names may vary - but the concepts hold)
     + **install** 
         + yum install <service_name>
@@ -101,7 +101,7 @@
             + Ref: https://www.geeksforgeeks.org/kill-command-in-linux-with-examples/ or **man kill**
 
 
-## Service Ports  
+### Service Ports  
 
 + We need to learn a few commands that can be used in checking ports: 
     + Checking if a port is being used or open:
@@ -116,7 +116,7 @@
             + **telnet command** - see above 
 
     
-## [Docker] Service Ports in the Context of Containers 
+### [Docker] Service Ports in the Context of Containers 
 + Containers are **actually processes** running on the host machine (with some good isolation). 
 + Containers running on a host server belong to a network (by default **bridge** network). 
     + Each container is assigned an IP address e.g. 172.17.0.2
@@ -134,14 +134,14 @@
                     e.g. **-p host_machine_port:container_port** 
 
 
-## Containerization vs Virtualization
+### Containerization vs Virtualization
 
 You can do some reading here:
 
 + ttps://medium.com/@krishankdwivedi/containerization-and-virtualization-7ac59b788268
 + https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor
 
-## Today's Challenge
+### Today's Challenge
 
 + **Task 1:** Set up your webapp on the apache folder on the host VM: 
     + cd /var/www/html/
@@ -162,6 +162,6 @@ You can do some reading here:
         + Play with SQL statements (query, update, etc)
 
 
-# References:
+## References:
 
 + Powerpoint presentation: https://docs.google.com/presentation/d/19Ji21DN9yrpz-FT_gNXUXXlS12tkcqIOJEKM_t6OTmQ/edit?usp=sharing
