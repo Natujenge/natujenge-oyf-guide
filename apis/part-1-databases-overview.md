@@ -10,7 +10,7 @@
                     + admin_no|student_name|dob|home_county|admin_date|admin_class|class
                 + **Sample records:**
                     + 1001|Rexvin Mwangi|2008-09-22|Kiambu|2020-02-05|8S
-                    + 1002|Joy Kendi|2008-09-22|Tharaka|2020-02-05|8W
+                    + 1002|Joy Kendi|2008-11-26|Tharaka|2019-03-07|8W
             + **teachers.txt** - file containing teachers data
                 + **Column Headers:**
                     + staff_no|teacher_name|id_no|dob|tsc_no|home_county|join_date
@@ -38,12 +38,12 @@
                     "class": "8S"
                 },
                 {
-                    "id":"1001",
-                    "name": "Rexvin Mwangi",
-                    "dob": "2008-09-22",
-                    "county":"Kiambu",
-                    "admin_date": "2020-02-05",
-                    "class": "8S"
+                    "id":"1002",
+                    "name": "Joy Kendi",
+                    "dob": "2008-11-26",
+                    "county":"Tharaka",
+                    "admin_date": "2019-03-07",
+                    "class": "8W"
                 }
             ]
 
