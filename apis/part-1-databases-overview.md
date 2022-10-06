@@ -10,7 +10,7 @@
             + **students.txt** - file containing students data
                 + **Column Headers:**
                     ```yaml
-                    admin_no|student_name|dob|home_county|admin_date|admin_class|class
+                    admin_no|student_name|dob|home_county|admin_date|class
                 + **Sample records:**
                     ```yaml
                     1001|Rexvin Mwangi|2008-09-22|Kiambu|2020-02-05|8S
