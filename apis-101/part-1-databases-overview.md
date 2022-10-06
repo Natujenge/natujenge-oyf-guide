@@ -127,6 +127,8 @@ In this section, we will use MySQL to illustrate some of the database concepts a
         + _show tables;_
     + **descibe table** - used to describe the table - prints the structure of database. 
         + _desc students;_
+    + **show create table** - shows the SQL statement that can be used in creating the table
+        + _show create table tbl_students_ 
     + **show processlist** - queries run as processes with the database. This command lists all queries that are running in your database. 
         + _show processlist_ - shows brief information 
         + _show full proceslist_ - shows the full query
