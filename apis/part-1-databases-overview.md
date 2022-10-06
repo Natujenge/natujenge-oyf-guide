@@ -97,6 +97,8 @@ Example DBMS include:
 
 ## MySQL Commands and SQL Statements 
 
+_NOTE: In case you are using a different DBMS, consider the equivalent commands and queries._
+
 In this section, we will use MySQL to illustrate some of the database concepts and below some of the commands that are helpful. 
 
 + **Linux commands** - run on the shell
