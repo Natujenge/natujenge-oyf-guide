@@ -143,6 +143,8 @@ In this section, we will use MySQL to illustrate some of the database concepts a
 
 ### Indexing
 
+Think of the effect of an INDEX in a book:
+
 ![image info](../images/db-indexing.png)
 
 A database index is a structure that  improves the time for data retrieval. They are used to quickly locate data without having to scan through each and every row on the slow disks every time a database table is accessed.
