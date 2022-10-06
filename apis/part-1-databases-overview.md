@@ -4,7 +4,7 @@
 
 + **Data** - can be facts related to any object in consideration e.g. your name, height, age are some data related to you. This is in the context of computer system.+
 
-+ **Database** - a systematic collection of data (in a computer system) to help in storage and manipulation of data. 
++ **Database(DB)** - a systematic collection of data (in a computer system) to help in storage and manipulation of data. 
     + You can adopt the following folder structure for system organization of data:
         + **Option 1: Tables** 
             + **students.txt** - file containing students data
