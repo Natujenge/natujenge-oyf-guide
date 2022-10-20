@@ -150,6 +150,9 @@
                     
             + You can now draw context diagram... 
 
+
+            ![image info](../images/01-julisha-context.jpg)
+
         + Product Functions:
             + A baker should be able to place an order on a system:
                 + Capture the order name and finer details and an attachment..... 
@@ -361,8 +364,7 @@
                 + scan orders that are due and generate a reminder..
 
 
-
-        
+![image info](../images/01-julisha-hld.jpg)
 
 
 
