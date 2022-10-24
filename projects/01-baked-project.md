@@ -428,6 +428,9 @@ A baker object will have the following attributes:
                 + sms
 
 **Baker state transition diagram:**
+
+The diagram below shows the allowed state transitions. 
+
 ![Baker State Transition Diagram](../images/01-baked04.png)
 
 Note:
@@ -457,6 +460,9 @@ A customer object will have the following attributes:
 
 
 **Customer state transition diagram:**
+
+The diagram below shows the allowed state transitions. 
+
 ![Customer State Transition Diagram](../images/01-baked05.png)
 
 
@@ -501,6 +507,9 @@ An order object will have the following attributes:
 
 
 **Order state transition diagram:**
+
+The diagram below shows the allowed state transitions. 
+
 ![Customer State Transition Diagram](../images/01-baked06.png)
 
 Note:
