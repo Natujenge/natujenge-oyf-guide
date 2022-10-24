@@ -564,6 +564,82 @@ Notes:
 
 # 8.0. Experience Modelling
 
+In this section, we highlight the main product experience. 
+
+## 8.1 Baker Landing Page
+
+The diagram below shows a sketch of the proposed experience and the APIs needed to render the page. 
+
+![Baker Landing Page](../images/01-baked-exp01.jpg)
+
+
+## 8.2 Customer View Exprience
+
+The diagram below shows a sketch of the proposed experience and the APIs needed to render the page. 
+
+![Customer View](../images/01-baked-exp02.jpg)
+
+## 8.3 Order View Exprience
+
+The diagram below shows a sketch of the proposed experience and the APIs needed to render the page. 
+
+![Customer View](../images/01-baked-exp03.jpg)
+
+
+## 8.4 Payment View/Dialog Exprience
+
+The diagram below shows a sketch of the proposed experience and the APIs needed to render the page. 
+
+![Customer View](../images/01-baked-exp04.jpg)
+
+
+## 8.5 View All Orders Exprience
+
+The diagram below shows a sketch of the proposed experience and the APIs needed to render the page. 
+
+![Customer View](../images/01-baked-exp05.jpg)
+
+## 8.6 Change Customer/Order Status Experience
+
+The diagram below shows a sketch of the proposed experience and the APIs needed to render the page. 
+
+![Customer View](../images/01-baked-exp06.jpg)
+
+
+## 8.7 Create Customer Experience
+To be defined by the development team. 
+
+
+## 8.7 Create Order Experience
+To be defined by the development team. 
+
+## 8.8 Create/Record Order Payment Experience
+To be defined by the development team. 
+
+## 8.9 View Notification Dialog Experience
+To be defined by the development team. 
+
+## 8.10 Sign Up/Register Experience 
+To be defined by the development team. 
+
+## 8.11 Sign In/Login Experience 
+To be defined by the development team. 
+
+## 8.12 Baker Settings View Experience 
+To be defined by the development team. 
+
+## 8.13 Change Baker Settings - Logo Experience 
+To be defined by the development team. 
+
+## 8.14 Change Baker Settings - Notifications Experience 
+To be defined by the development team. 
+
+## 8.15 Change Baker Settings - Payments Experience 
+To be defined by the development team. 
+
+## 8.16 Change Baker Settings - Location Info Experience 
+To be defined by the development team. 
+
 # 9.0. Process Modelling
 
 ## 9.1. Authentication Process 
